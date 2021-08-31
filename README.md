@@ -1,2 +1,2 @@
-# myFirstRepo
+# GitTutorial
 Test Description
